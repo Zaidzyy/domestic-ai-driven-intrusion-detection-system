@@ -31,7 +31,7 @@ This project is a lightweight, AI-enhanced Intrusion Detection System (IDS) desi
 
 ### 1. Clone the Repository
 ```sh
-git clone <repo-url>
+git clone https://github.com/Zaidzyy/domestic-ai-driven-intrusion-detection-system
 cd domestic-ai-driven-ids
 ```
 
