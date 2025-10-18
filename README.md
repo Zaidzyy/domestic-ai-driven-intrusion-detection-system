@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This project is a lightweight, AI-enhanced Intrusion Detection System (IDS) designed to monitor network traffic on your home Wi-Fi network. It uses machine learning to flag unusual or potentially malicious activity in real time, with a modern dashboard and optional threat intelligence and auto-blocking features.
 
-![Demo Image](/app_image.jpg)
+![Demo Image](/web_image.jpg)
 
 ---
 
