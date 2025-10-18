@@ -54,7 +54,7 @@ python src/train_model.py       # Train and save the ML model
 ```sh
 python src/sniffer.py           # Run in a separate terminal
 
-![Demo Image](/sniffer_image.jpg)
+![Demo Image](/Sniffer_image.jpg)
 
 ```
 
