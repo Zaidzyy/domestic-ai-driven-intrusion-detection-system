@@ -46,17 +46,18 @@ pip install -r requirements.txt
 python src/dataset_prep.py      # Download and preprocess NSL-KDD
 python src/train_model.py       # Train and save the ML model
 
+```
+
 ![Demo Image](/training_image.jpg)
 
-```
 
 ### 4. Start Packet Capture
 ```sh
 python src/sniffer.py           # Run in a separate terminal
 
-![Demo Image](/Sniffer_image.jpg)
-
 ```
+
+![Demo Image](/Sniffer_image.jpg)
 
 ### 5. (Optional) Set AbuseIPDB API Key
 Get a free API key from [AbuseIPDB](https://www.abuseipdb.com/).
