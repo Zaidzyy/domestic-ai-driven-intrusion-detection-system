@@ -75,7 +75,7 @@ python src/realtime_detect.py   # Run in a separate terminal
 ```sh
 streamlit run dashboard/app.py
 ```
-Visit [http://localhost:8501](http://localhost:xxxx) in your browser.
+Visit [http://localhost:xxxx](http://localhost:xxxx) in your browser.
 
 ---
 
