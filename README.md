@@ -16,23 +16,6 @@ This project is a lightweight, AI-enhanced Intrusion Detection System (IDS) desi
 - **Interactive Dashboard:** Streamlit dashboard for live traffic, alerts, and threat intelligence.
 ---
 
-## 🏗️ Architecture
-```
-+-------------------+      +-------------------+      +-------------------+
-|  Packet Sniffer   | ---> |  ML Classifier    | ---> |  Alert/Block/Log  |
-+-------------------+      +-------------------+      +-------------------+
-        |                        |                           |
-        v                        v                           v
-   [captured_packets.csv]   [rf_model.joblib]         [alerts.log]
-        |                        |                           |
-        +------------------------+---------------------------+
-                                 |
-                                 v
-                        [Streamlit Dashboard]
-```
-
----
-
 ## 📦 Project Structure
 ```
 .
